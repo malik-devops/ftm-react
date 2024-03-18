@@ -1,0 +1,59 @@
+.form {
+        display: contents;
+}
+.label {
+        font-size: 20px;
+
+}
+.input {
+  padding: 10px;
+  width: 18rem;
+      height: 3rem;
+    border-radius: 5px;
+    margin: 5px 0px;
+    font-size: 16px;
+
+
+}
+.submit {
+    cursor: pointer;
+    width: auto;
+    height: 33px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: #21a195eb;
+    color: #fff;
+    border-radius: 5px;
+    border: 0px;
+}
+.right-submit {
+  margin-left: auto;
+}
+.span {
+    margin-bottom: 3rem;
+}
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(81, 81, 81);
+  width: 60%;
+
+}
+.App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+.div-submit {
+  display: flex;
+  flex-direction: row;
+}
+
+table {
+  font-size: 16px;
+}
