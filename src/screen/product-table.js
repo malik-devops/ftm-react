@@ -4,7 +4,7 @@ import "./styles.css";
 
 
 const defaultValues = {
-    id: null,
+    id: 0,
     name: "",
     description: "",
     quantity: 0
